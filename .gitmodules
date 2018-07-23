@@ -10,3 +10,6 @@
 [submodule "/home/ryan/.vim/bundle/sacredforest-theme"]
 	path = /home/ryan/.vim/bundle/sacredforest-theme
 	url = https://github.com/KKPMW/sacredforest-vim.git
+[submodule "bundle/ejs-syntax"]
+	path = bundle/ejs-syntax
+	url = https://github.com/nikvdp/ejs-syntax.git
