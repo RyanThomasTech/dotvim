@@ -12,10 +12,13 @@ colorscheme dracula
 func! WordProcessorMode()
     setlocal formatoptions=t1
     setlocal textwidth=80
+    setlocal wrap
+    setlocal linebreak
+    setlocal nosmartindent
+    setlocal noexpandtab
     map j gj
     map k gk
     setlocal spell spelllang=en_us
-    setlocal noexpandtab
     colorscheme sacredforest
 endfu
 com! WP call WordProcessorMode()
