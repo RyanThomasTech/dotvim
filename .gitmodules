@@ -16,3 +16,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "/home/ryan/.vim/bundle/typescript-vim"]
+	path = /home/ryan/.vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
