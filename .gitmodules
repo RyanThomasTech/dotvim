@@ -19,3 +19,6 @@
 [submodule "/home/ryan/.vim/bundle/typescript-vim"]
 	path = /home/ryan/.vim/bundle/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale.git
