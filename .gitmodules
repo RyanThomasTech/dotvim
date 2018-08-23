@@ -13,3 +13,12 @@
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/theme-sacredforest"]
+	path = bundle/theme-sacredforest
+	url = https://github.com/KKPMW/sacredforest-vim.git
+[submodule "bundle/vim-typescript"]
+	path = bundle/vim-typescript
+	url = https://github.com/leafgarland/typescript-vim.git
