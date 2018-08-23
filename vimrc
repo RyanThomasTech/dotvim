@@ -8,6 +8,8 @@ set number
 set smartindent
 syntax on
 colorscheme dracula
+com! -bar -nargs=* -complete=file -range=% -bang W      <line>,<line2>write<bang><args>
+com! -bar -nargs=* -complete=file -range=% -bang Wq      <line>,<line2>wq<bang><args>
 
 func! WordProcessorMode()
     setlocal formatoptions=t1
