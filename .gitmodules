@@ -1,27 +1,15 @@
 [submodule "bundle/dracula-theme"]
 	path = bundle/dracula-theme
 	url = https://github.com/dracula/vim
-[submodule "/home/ryan/.vim/bundle/vim-javascript"]
-	path = /home/ryan/.vim/bundle/vim-javascript
-	url = https://github.com/pangloss/vim-javascript.git
 [submodule "/home/ryan/.vim/bundle/ale"]
 	path = /home/ryan/.vim/bundle/ale
 	url = https://github.com/w0rp/ale.git
-[submodule "/home/ryan/.vim/bundle/sacredforest-theme"]
-	path = /home/ryan/.vim/bundle/sacredforest-theme
-	url = https://github.com/KKPMW/sacredforest-vim.git
 [submodule "bundle/ejs-syntax"]
 	path = bundle/ejs-syntax
 	url = https://github.com/nikvdp/ejs-syntax.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "/home/ryan/.vim/bundle/typescript-vim"]
-	path = /home/ryan/.vim/bundle/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim.git
-[submodule "ale"]
-	path = ale
-	url = https://github.com/w0rp/ale.git
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/w0rp/ale.git
