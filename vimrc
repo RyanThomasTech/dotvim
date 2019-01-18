@@ -8,6 +8,14 @@ set number
 set smartindent
 syntax on
 colorscheme dracula
+
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+set splitbelow
+set splitright
+
 com! -bar -nargs=* -complete=file -range=% -bang W      <line>,<line2>write<bang><args>
 com! -bar -nargs=* -complete=file -range=% -bang Wq      <line>,<line2>wq<bang><args>
 
