@@ -1,9 +1,6 @@
 [submodule "bundle/dracula-theme"]
 	path = bundle/dracula-theme
 	url = https://github.com/dracula/vim
-[submodule "/home/ryan/.vim/bundle/ale"]
-	path = /home/ryan/.vim/bundle/ale
-	url = https://github.com/w0rp/ale.git
 [submodule "bundle/ejs-syntax"]
 	path = bundle/ejs-syntax
 	url = https://github.com/nikvdp/ejs-syntax.git
