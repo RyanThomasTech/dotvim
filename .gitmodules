@@ -28,3 +28,6 @@
 [submodule "bundle/vim-prettier"]
 	path = bundle/vim-prettier
 	url = https://github.com/prettier/vim-prettier
+[submodule "/home/ryan/.vim/bundle/nerdtree"]
+	path = /home/ryan/.vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
